@@ -5,6 +5,7 @@ Task:
 Main problems:
 - Decrease in new student enrollment during the spring-summer period.
 - Retention rate for courses is 34%. The lowest retention rates are in the premium tiers.
+
 Recommendations:
 
 ***Sales department recommendations:
