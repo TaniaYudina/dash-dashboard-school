@@ -1,0 +1,32 @@
+Task:
+- Process data from CRM system
+- Provide recommendations to improve the efficiency of the online programming school
+
+Main problems:
+- Decrease in new student enrollment during the spring-summer period.
+- Retention rate for courses is 34%. The lowest retention rates are in the premium tiers.
+Recommendations:
+
+***Sales department recommendations:
+
+- Monitor service quality: As deal volume increases, monitor the quality of customer interactions and the results of each deal to ensure that speed does not come at the expense of quality.
+
+- Streamline the sales process: Consider automating some routine tasks and implementing flexible deal management tools. This will help you close more deals faster while maintaining a high level of quality. Proper use of CRM systems and analytics to predict delays or problem phases will also help streamline processes and improve efficiency.
+
+- Adapt to peak periods: During periods of active promotions, there is an increase in activity and an increase in the number of deals. Preparing your team for these times - for example, by adding staff or shifting tasks to off-peak periods - will help prevent overload and improve service quality.
+
+***Advertising campaign recommendations:
+
+- Test various advertising channels to determine the most effective ones. Pay particular attention to channels that provide maximum audience reach at minimum cost. Reduce CAC and increase conversion (C1) by more accurately targeting channels to the audience.
+
+- Implement referral programs: Develop and implement a system of referral programs for current students that rewards them for bringing in new customers. This will increase the audience (UA) while decreasing the CAC because the acquisition will be through referrals.
+
+***Training Course Recommendations:
+
+- Seasonal courses with flexible scheduling: Customize courses for the spring and summer, including the possibility of summer breaks. This format will attract students who need to combine study with leisure or seasonal activities. Introduce short-term, highly specialized courses and intensify their promotion in the spring and summer, in parallel with the promotion of the main programs.
+
+- Implement a loyalty program: Develop additional loyalty programs for premium plan students, such as bonus sessions, one-on-one consultations, or access to exclusive materials. This will not only improve the customer experience, but also increase retention conversion (conversation study) and motivate students to continue their studies.
+
+- Increase marketing investment: For Basic and Standard plans, increase marketing investment to attract more customers as the products show stable profitability.
+
+
