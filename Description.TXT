@@ -4,6 +4,7 @@ Task:
 
 Main problems:
 - Decrease in new students enrollment during the spring-summer period.
+- Operator overload during spring promotions.
 - Retention rate for courses is 34%. The lowest retention rates are in the Premium tariff.
 
 Recommendations:
