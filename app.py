@@ -836,5 +836,8 @@ def update_table(selected_table):
 
 
 if __name__ == "__main__":
-    app.run_server(debug=True)
+    if os.environ.get('ENV') == 'production':
+		app.run_server(host='0.0.0.0', port=10000, debug=False)  # Для облака
+	else:
+	    app.run_server(host='127.0.0.1', port=10000, debug=True)  # Для локальной разработки
   
