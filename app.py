@@ -1,5 +1,4 @@
 import dash
-import os
 from dash import Dash, dcc, html
 from dash.dependencies import Input, Output
 import pandas as pd
@@ -837,8 +836,5 @@ def update_table(selected_table):
 
 
 if __name__ == "__main__":
-    if os.environ.get('ENV') == 'production':
-		app.run_server(host='0.0.0.0', port=10000, debug=False)  # Для облака
-	else:
-	    app.run_server(host='127.0.0.1', port=10000, debug=True)  # Для локальной разработки
+    app.run_server(debug=True)
   
