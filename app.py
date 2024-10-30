@@ -666,24 +666,24 @@ tab4_content = [
     html.Br(),
     dbc.Row([
         dbc.Col(dbc.Card(dbc.CardBody([
-            html.H3(f'{source['CPA'].mean().round(1)} €', className="card-title"),
+            html.H3(f"{source['CPA'].mean().round(1)} €", className="card-title"),
             html.P("Cost per Action (CPA)", className="card-text",
             )]
         ),   style={'border': '2px solid #00BFFF',  'box-shadow': '5px 5px 5px rgba(0, 0, 0, 0.2)',   'border-radius': '12px' , 'text-align': 'center'})),
          dbc.Col(dbc.Card(dbc.CardBody([
-            html.H3(f'{source['ARPU'].mean().round(1)} €', className="card-title"),
+            html.H3(f"{source['ARPU'].mean().round(1)} €", className="card-title"),
             html.P("Average Revenue Per User (ARPU)", className="card-text",
             ),]
          ),   style={'border': '2px solid #4169E1',  'box-shadow': '5px 5px 5px rgba(0, 0, 0, 0.2)',   'border-radius': '12px' , 'text-align': 'center'})),
         
          dbc.Col(dbc.Card(dbc.CardBody([
-            html.H3(f'{source['CRR'].mean().round(1)} %', className="card-title"),
+            html.H3(f"{source['CRR'].mean().round(1)} %", className="card-title"),
             html.P("Cost Revenue Ratio (CRR)", className="card-text",
             ),]
          ),   style={'border': '2px solid #00BFFF',  'box-shadow': '5px 5px 5px rgba(0, 0, 0, 0.2)',   'border-radius': '12px' , 'text-align': 'center'})),
         
          dbc.Col(dbc.Card(dbc.CardBody([
-            html.H3(f'{source['MER'].mean().round(1)} €', className="card-title"),
+            html.H3(f"{source['MER'].mean().round(1)} €", className="card-title"),
             html.P("Marketing Efficiency Ratio (MER)", className="card-text",
             ),]
          ),   style={'border': '2px solid #4169E1',  'box-shadow': '5px 5px 5px rgba(0, 0, 0, 0.2)',   'border-radius': '12px' , 'text-align': 'center'})),
